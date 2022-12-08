@@ -1,2 +1,2 @@
-# pcs-oracle
-test connection to oracle database
+# pcs-oracle-test
+Proactive Contact Oracle Database Connection Test
